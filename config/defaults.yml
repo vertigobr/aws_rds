@@ -1,0 +1,10 @@
+---
+allocated_storage              : 10
+engine                         : "postgres"
+engine_version                 : "14"
+instance_class                 : "db.t3.micro"
+name                           : "vkpr_rds"
+username                       : "vkpr"
+password                       : "vkpr123"
+skip_final_snapshot            : false
+  
